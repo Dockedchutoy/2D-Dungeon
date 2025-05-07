@@ -1,0 +1,14 @@
+0.2 Alpha
+ 
+ Map
+ • Map generation updated
+ + Map size increased to 6x6
+ • Movement commands shortened
+ 
+ Items
+ + Added Sword
+ + Added inventory, updated inventory functionality
+ 
+ Attack
+ + Added a monster tile
+ + Added the fighting system
