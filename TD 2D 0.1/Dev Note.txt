@@ -1,0 +1,24 @@
+2D 0.1 Alpha was the biggest update to the game, especially because it added a thing that made my life much, much
+easier - 2D array's. Before then, the code was functioning on a simple list and elaborate math. This was going to be
+once i would begin working on updating the map generation further, like making it random. That was not feasible for
+me, and once i found out about 2D lists (or arrays as i call them), i got straight to work, making the map generation 
+straight from scratch. While implementing the 2D generation was painful to figure out, after that it was very simple 
+to add the other tiles like Start, Exit and the monster. And adding the movement was even easier. i also fixed and 
+remade tilecheck() into isspace(), and randomized map size.
+
+This update also added three objects. The first was the weapon Fist, which was supposed to be used when no weapon was
+equipped. And since there is no way for the player to unequip their Weapon, this weapon goes unused. Then there's the
+UMG Hammer, which i added as an easter egg. It's insanely OP, and equips itself upon activating the easter egg. The
+last item also introduced a new weapon type, the Explosive. That item is the Dynamite, and along with Fist goes 
+completely unused, residing only in objdata. Also, explosive were apparently divided into s. explosive and w. 
+explosive. I have no idea what the first letters mean, maybe it's just a joke.
+
+Along with the new 2D array usage and new items, i also attempted to make the game even less prone to being 
+uncompletable by the aforementioned isspace() and diagonal movement. Speaking of movement, i shortened the commands
+even more, reducing them to their first letters. You also could now get an overview of your inventory, but otherwise,
+the inv command was yet to get any proper usage. I also got around to fixing the combat so it used your weapon instead
+of generating it's own numbers.
+
+In the end, version 2D 0.1 increased the code length by 106 lines, increasing the total by more than a half. It was
+the last finished update to the game, the first one to have 2D added to it's name, and the first one to be developed
+on PC, as the previous versions were made and tested on mobile and code ported to PC from there.
