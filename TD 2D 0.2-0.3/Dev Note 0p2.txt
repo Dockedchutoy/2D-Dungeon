@@ -1,0 +1,16 @@
+2D 0.2 Alpha is an unfinished and unreleased version of 2D Text Dungeon, which is evindent by the lack
+of content in the Release folder.
+
+Comparing the distro files of this version and the previous one, they are almost identical, save for
+the addition of a TODO list and like, 5 lines of code to the inventory commands.
+
+According to that to do list, this version was supposed to bring four changes: Firstly, the main
+focus was actually making the inventory work and something, which was evident by those 5 lines of code
+i mentioned earlier. If i remember correctly, you were supposed to equip and unequip weapons, drop
+items, and use those items. Things like that. Second thing were the chests with loot, definitely
+bearing those unused dynamites and probably adding other items as well. I already mentioned the 
+weapon switching, and speaking of weapons, i also apparently wanted to nerf the UMG Hammer... Not
+sure why i didn't outright remove it, or make it very rare chest loot instead. Maybe that was the idea.
+I don't remember.
+
+There's nothing left to say about this version, it was mostly only unfinished ideas.
