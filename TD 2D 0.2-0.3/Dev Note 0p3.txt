@@ -1,0 +1,21 @@
+2D 0.3 Alpha never really existed, and is really just ideas for a future update. This should be a quick
+one.
+
+First thing was adding more weapons and objects, so that the chest actually had more loot variety. I 
+don't know which or what, but yeah. I was also supposed to add a license, once again, i dunno which one.
+Then there are the mentions of adding more monsters, i don't think i need to elaborate on that one.
+
+After that, i was suppossed to fix some bugs, but there was only one that i was suppossed to fix in 0.3,
+which was making the maps atleast somewhat possible. Which was confusing, as i was attempting to fix 
+that problem wayy before starting work on 0.2 through the isspaces() function and diagonal movement. So
+i'm not really sure what was i preparing for that.
+
+I should probably also write about 0.4 here, since just like 0.3, this one was also unrealized,
+difference being that i had absolutely no idea what the hell would be in that update.
+I was supposed to make the map size randomed, something that i did when i switched to 2D arrays (that's
+three versions back.) Maybe it was supposed to be more variable, but i have no idea. Next, that version
+was supposed to also add the english language, self explanatory. A level system was also planned for
+that version.
+
+And that's all the versions for you. There's also a single mention of a 2D 1.0 version, but that was
+the full version, and i expected it to be a long way to that back then.
